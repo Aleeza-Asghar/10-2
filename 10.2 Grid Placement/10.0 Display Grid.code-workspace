@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../10.0 Display Grid"
+		},
+		{
+			"path": "../10.1 Grid Sizing"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../10.3 Mondrian Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "10.0 Display Grid"
+	}
+}
